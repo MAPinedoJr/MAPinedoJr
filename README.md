@@ -60,5 +60,4 @@ My journey in technology has led me to develop a passion for IT and Cybersecurit
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Active Directory Lab 
