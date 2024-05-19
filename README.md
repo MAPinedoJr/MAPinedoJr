@@ -48,6 +48,7 @@ My journey in technology has led me to develop a passion for IT and Cybersecurit
 <img src="https://img.shields.io/badge/-ISC2%20CC-003366?style=for-the-badge&logo=ISC2&logoColor=white" />
     
 <br>
+
 -In Progress:
 
 <br>
