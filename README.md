@@ -12,12 +12,8 @@ My journey in technology has led me to develop a passion for IT and Cybersecurit
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/MAPinedoJr/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/MAPinedoJr/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
 
 ## Tools
 
