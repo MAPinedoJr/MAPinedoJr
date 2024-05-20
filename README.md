@@ -54,4 +54,4 @@ My journey in technology has led me to develop a passion for IT and Cybersecurit
 </div>
 
 ## Projects
-<a href="https://github.com/MAPinedoJr/Active-Directory-Lab/tree/main">- Active Directory Lab</a>|
+<a href="https://github.com/MAPinedoJr/Active-Directory-Lab/tree/main">- Active Directory Lab</a>
