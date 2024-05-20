@@ -5,7 +5,7 @@ I am a recent highschool graduate with a profound interest in technology and a d
 
 ## Objective
 
-My journey in technology has led me to develop a passion for IT and Cybersecurity, and I am now eager to break into this field, willing to take on any oppurtunity to contribute and grow.
+My journey in technology has led me to develop a passion for IT and Cybersecurity, and I am now eager to break into these fields, willing to take on any oppurtunity to contribute and grow.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
