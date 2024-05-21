@@ -12,7 +12,9 @@ My journey in technology has led me to develop a passion for IT and Cybersecurit
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/MAPinedoJr/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/MAPinedoJr/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
+| Active Directory Management | <a href="https://github.com/MAPinedoJr/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
+| Telemetry Generation and Pentesting | <a href="https://github.com/MAPinedoJr/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
+| Network Configuration | <a href="https://github.com/MAPinedoJr/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
 
 ## Tools
 
