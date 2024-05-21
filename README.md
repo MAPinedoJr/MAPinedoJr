@@ -1,4 +1,4 @@
-# Hello, I'm Marco Antonio Pinedo Jr
+# Hello, I'm Marco A. Pinedo Jr
 <a href="https://linkedin.com/in/marco-antonio-pinedo-jr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a dedicated student with a profound interest in technology and devoted to continue learning and solving complex problems.
