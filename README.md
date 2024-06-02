@@ -43,14 +43,14 @@ My journey in technology has led me to develop a passion for IT and Cybersecurit
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2%20CC-003366?style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-TestOut%20Security%20Pro-3E8DCC?style=for-the-badge&logo=TestOut&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
     
 <br>
 
 
 #### In Progress:
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
 <img src="https://img.shields.io/badge/-Linux%2B-1793D1?style=for-the-badge&logo=Linux&logoColor=white" />
 
 </div>
