@@ -52,6 +52,7 @@ My journey in technology has led me to develop a passion for IT and Cybersecurit
 #### In Progress:
 
 <img src="https://img.shields.io/badge/-Linux%2B-1793D1?style=for-the-badge&logo=Linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCNA-1E90FF?style=for-the-badge&logo=Cisco&logoColor=white" />
 
 </div>
 
