@@ -33,7 +33,6 @@ Dedicated student with a profound interest in technology and devoted to continue
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A+%20CC-00A000?style=for-the-badge&logo=CompTIA&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux%2B-FFD700?style=for-the-badge&logo=Linux&logoColor=white" />
