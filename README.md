@@ -1,11 +1,7 @@
 # Hello, I'm Marco A. Pinedo Jr
 <a href="https://linkedin.com/in/marco-antonio-pinedo-jr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a dedicated student with a profound interest in technology and devoted to continue learning and solving complex problems.
-
-## Objective
-
-My journey in technology has led me to develop a passion for IT and Cybersecurity, and I am now eager to break into these fields, willing to take on any oppurtunity to contribute and grow.
+Dedicated student with a profound interest in technology and devoted to continue learning and solving complex problems.
 
 ## Skills
 
@@ -27,9 +23,6 @@ My journey in technology has led me to develop a passion for IT and Cybersecurit
 
 </div>
 
-### Endpoint
-<div>
-    TBD
 </div>
 
 ### SIEM
@@ -40,18 +33,17 @@ My journey in technology has led me to develop a passion for IT and Cybersecurit
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-ISC2%20CC-00A000?style=for-the-badge&logo=ISC2&logoColor=000000" /> 
+<img src="https://img.shields.io/badge/-A+%20CC-00A000?style=for-the-badge&logo=CompTIA&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-TestOut%20Security%20Pro-000000?style=for-the-badge&logo=TestOut&logoColor=FFD700" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-Linux%2B-FFD700?style=for-the-badge&logo=Linux&logoColor=white" />
     
 <br>
 
 
 #### In Progress:
 
-<img src="https://img.shields.io/badge/-Linux%2B-FFD700?style=for-the-badge&logo=Linux&logoColor=white" />
+
 <img src="https://img.shields.io/badge/-CCNA-1E90FF?style=for-the-badge&logo=Cisco&logoColor=white" />
 
 </div>
